@@ -1,0 +1,6 @@
+owner=543363632159784961
+prefix=S
+game=بني حميدة المجيدة | 🇮🇶💪
+stayinchannel=true
+songinstatus=false
+token=NTUyOTExNjI2OTcwNDY0MjU2.Xnsgbg.roFfXtUt-2KXKnUv0i0bqmWDmU8
